@@ -23,6 +23,7 @@ double finalTip= sub * tip;
         System.out.println(finalTax);
         System.out.println("Tip:");
         System.out.println(finalTip);
+        Challenge2.Top();
         System.out.println("Total:");
         System.out.println(finalprice);
 
