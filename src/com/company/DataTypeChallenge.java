@@ -36,7 +36,7 @@ public class DataTypeChallenge {
         double second= d + doubly;
         String third= s + string1;
 
-        System.out.printf( "\n %8.3s \n %10.5s \n %10.6s", first, second, s);
+        System.out.printf( "\n %1d \n %1.1f \n %1s", first, second, s);
         /*
         had to print the string in one message because it wouldn't let me use the scanner
          */
