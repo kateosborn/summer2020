@@ -12,6 +12,7 @@ public class June15Class {
             int num2 = (int) Math.abs(-50.78);
             int num3 = (int) Math.round(9.876);
 
+
             System.out.printf("using printf \n %5.3f  \n %5.3f \n %5.3f " +
                     "\n %3d \n %3d \n %3d", doubly1, doubly2, doubly3, num1, num2, num3);
 
